@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>User Details<h1>
-    <form action="saveuser" method="POST">
+    <form action="/v2/saveuser" method="POST">
         <table>
             <tr>
                 <td>User id</td>

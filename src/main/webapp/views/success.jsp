@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>${msg}<h1>
-    <a href="loadform" >Add New User</a>
+    <a href="loadformNEW" >Add New User</a>
 </body>
 </html>
